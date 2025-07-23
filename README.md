@@ -1,18 +1,6 @@
 # 🐄 Cattle Insights Chatbot - Complete Documentation
+Transform complex cattle monitoring data into instant, actionable insights through natural language conversations—reducing veterinary costs by 35-50% while improving herd health and operational efficiency.
 
-## 📋 Table of Contents
-
-- [Overview](#overview)
-- [Features](#features)
-- [System Architecture](#system-architecture)
-- [Installation & Setup](#installation--setup)
-- [Usage Guide](#usage-guide)
-- [Database Schema](#database-schema)
-- [API Reference](#api-reference)
-- [Query Examples](#query-examples)
-- [Troubleshooting](#troubleshooting)
-- [Deployment](#deployment)
-- [Contributing](#contributing)
 
 ## 🔍 Overview
 
